@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Polling implementation of a UART Driver**
+**Polling implementation of a UART Driver**  
 Currently supports:
 - Customizable baud rate without any added calculations
 - Functionality for sending serial data through printf
@@ -33,3 +33,4 @@ Next Steps:
 
 ## References
 - STM32 documentation (datasheets, user guide, reference manual)
+
